@@ -1,0 +1,23 @@
+.flex-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.enterprise-name{
+  color:#6b5b95;
+}
+.login{
+  color: #d64161;
+  height: 50%;
+}
+ion-button[color="dark"]{
+  text-transform: initial;
+}
+.login-button{
+  color: white;
+  background-color: #6b5b95;
+}
+.register-button{
+  background-color: #feb236;
+}
