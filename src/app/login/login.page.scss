@@ -5,19 +5,32 @@
   height: 100%;
 }
 .enterprise-name{
-  color:#6b5b95;
+  color: #0c6ab3;
+  text-align: center;
 }
 .login{
-  color: #d64161;
-  height: 50%;
+  color: black;
+  text-align: center;
 }
-ion-button[color="dark"]{
+.Email{
+  color: black;
+}
+.Senha{
+  color: black;
+}
+.text-card-button{
+  color: black;
   text-transform: initial;
 }
 .login-button{
   color: white;
-  background-color: #6b5b95;
+  background-color: #0984e3;
 }
 .register-button{
-  background-color: #feb236;
+  background-color: white;
+  color: black;
+
+}
+.card-body{
+  background-color: white;
 }
